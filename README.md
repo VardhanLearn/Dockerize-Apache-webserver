@@ -1,4 +1,4 @@
-# Dockerize-Apache-webserver
+# Dockerize-Apache-Webserver
 Deploying Webserver using Dockerfile 
 
 ![Docker Architecture](https://github.com/VardhanLearn/Dockerize-Apache-webserver/assets/87961252/b1319a2f-9584-4fcd-95fb-5ab2699c7217)
