@@ -14,7 +14,7 @@ PreRequisite:
 7. ![command 1](https://github.com/VardhanLearn/Dockerize-Apache-webserver/assets/87961252/12bd65fa-0cf8-47a7-8a1d-02d7bc518f45)
 
 8. Create docker container & run this command docker run -p 80:80 "imagename"
-9. Run local host on webbrowser
+9. Run local host on web browser
 10. ![Webserver deployed](https://github.com/VardhanLearn/Dockerize-Apache-webserver/assets/87961252/c1b97fe9-3858-48ce-88cf-8d45de1b6641)
 
   
